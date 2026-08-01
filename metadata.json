@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Áurea Carvalho | Advocacia de Alta Conversão",
+  "description": "Site profissional para Dra. Áurea Carvalho, especialista em Direito de Família, Sucessões e Patrimônio. Agendamento online, galeria de resultados e depoimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
